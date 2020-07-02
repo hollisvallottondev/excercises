@@ -173,3 +173,4 @@ console.log('Raul in', ideal_eleven.get('RW'));
 console.log('Drogba in', ideal_eleven.get('CF')); 
 
 console.log(ideal_eleven.elements); 
+
